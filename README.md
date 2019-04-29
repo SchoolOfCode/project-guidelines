@@ -147,6 +147,16 @@ Project Tooling
 - Prettier
 - ES Lint
 
+Continuous Integration
+
+- Travis
+- CircleCI
+
+Bug Tracking / Detection / Logging
+
+- Sentry
+- Log Rocket
+
 Communication
 
 - Slack
