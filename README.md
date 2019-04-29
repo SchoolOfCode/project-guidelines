@@ -77,9 +77,8 @@
   - turn the express app into a json api
   - change the folder structure of the react app
 - Decide on any libraries and frameworks you want to use upfront - do research and agree as a team
-- Use GitHub classroom to set up the repos on GitHub
-  - [Client](https://classroom.github.com/g/vzJwov0k)
-  - [Server](https://classroom.github.com/g/Jd0zJRgS)
+- Use GitHub / GitHub classrooms to set up the repos on GitHub
+  - This can be a monorepo or microservice style where each service has it's own repo
 - Push your initial work up to the repos
 
 ## Tech: Build
