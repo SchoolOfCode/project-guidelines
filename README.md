@@ -26,6 +26,8 @@
 
 ## Planning: Part 1
 
+- Create [User Personas](https://www.hubspot.com/make-my-persona) to get to know your users
+- Create [user stories](https://www.atlassian.com/agile/project-management/user-stories) to help map through what a user wants to do and why
 - Start planning the tech behind that solution
 - A large part of this time should be spent on research:
   - What is out there that can help?
@@ -53,7 +55,7 @@
 
 ## Planning: Part 2
 
-- Break your plan up into stories and issues
+- Break your plan up into epics and issues
 - Estimate the complexity
 - Prioritise
 - Find out which issues are blockers for others (which things need to be completed before something else can be started)
