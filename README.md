@@ -88,11 +88,13 @@
 - All team members should now pull down the repos into the same structure
 - Start working on your features
 - Remember our process
-  - Do not push to master!
+  - **Do not push to master!**
   - Branch off from master, naming your branch whatever the issue you are working on is
   - Make small commits as often as possible to ensure nothing can go too wrong!
+  - **You may find it useful for raise a pull request early on in the process**; we'd suggest when you think you are 30% done (ask the team - "here's what I'm thinking, any suggestions early on", and when you think you are 90% done "I think I've cracked it, any last pointers before it's ready to submit")
   - When your issue is complete, raise a pull request
   - Have another member (at least 1) of the team pull it in - take time to review the code together and make sure someone else knows what's happening
+  - **Request a review from a School of Code Coach**; these reviews will be conducted before 10am each morning, and will help keep you on the right track, prompt you to take in best practices, and keeps us informed on your progress so we can spot problems before they become runaway trains!
   - Once the merge is accepted, delete the branch
   - Start from the top
 
