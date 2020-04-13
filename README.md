@@ -91,6 +91,7 @@
   - **Do not push to master!**
   - Branch off from master, naming your branch whatever the issue you are working on is
   - Make small commits as often as possible to ensure nothing can go too wrong!
+  - Remember to **Co-author your commits** - it'll be important to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors)
   - **You may find it useful for raise a pull request early on in the process**; we'd suggest when you think you are 30% done (ask the team - "here's what I'm thinking, any suggestions early on", and when you think you are 90% done "I think I've cracked it, any last pointers before it's ready to submit")
   - When your issue is complete, raise a pull request
   - Have another member (at least 1) of the team pull it in - take time to review the code together and make sure someone else knows what's happening
