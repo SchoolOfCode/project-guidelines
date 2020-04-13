@@ -1,5 +1,12 @@
 # Project Plan Guidelines
 
+## Team
+- The most important part of any project, making sure the team are all bought into it
+- In great teams, each member puts the team above themselves. Egos are left at the door, we're all in it to help each other
+- What are the strengths, preferences, weaknesses, and how can you all work together to maximise each others potential
+- How will you keep it a happy, fun, and effective team environment?
+- Remember back to all your team work and self-awareness sessions
+
 ## Understand the problem: Part 1
 
 - Take time to understand who the user is, and what their problem is
