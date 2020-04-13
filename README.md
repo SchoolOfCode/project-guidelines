@@ -164,6 +164,7 @@ Continuous Integration
 
 - Travis
 - CircleCI
+- GitHub actions
 
 Bug Tracking / Detection / Logging
 
