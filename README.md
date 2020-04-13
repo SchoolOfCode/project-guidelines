@@ -132,10 +132,15 @@ Project Hosting
 
 Database Hosting
 
+- Google Cloud
+- AWS
+- Firebase
+- Heroku
 - MongoDB Atlas
 
 Designing
 
+- Figma
 - Google Sheets
 - Balsamiq
 - Whiteboards
@@ -143,11 +148,14 @@ Designing
 Project Management
 
 - Storypoint Poker
-- GitHub + ZenHub
+- GitHub
+- Trello
+- JIRA
 
 Project Tooling
 
 - Express Generator
+- Next.JS
 - Create React App
 - Prettier
 - ES Lint
