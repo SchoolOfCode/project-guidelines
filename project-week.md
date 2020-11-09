@@ -25,5 +25,4 @@
 ## Technical details
 
 - You should be using environment variables where you think it is appropriate
-- You should use mongoose for your DB management, and design your schemas appropriately for their usage
 - Bonus points for advanced user interface features
