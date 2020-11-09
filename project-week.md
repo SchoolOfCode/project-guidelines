@@ -20,7 +20,7 @@
 
 - Day 2, 3, and 4 should all be spent pair programming
 - We want to see a different pairing each day
-- For a team of 3, that means 1 person may be on their own each day, but this should be a different person
+- For a team of 5, that might mean 1 person may be on their own each day or a 3, but this should be a different person
 
 ## Technical details
 
