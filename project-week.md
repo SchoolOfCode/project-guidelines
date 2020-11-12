@@ -26,3 +26,17 @@
 
 - You should be using environment variables where you think it is appropriate
 - Bonus points for advanced user interface features
+
+## Friday Presentations
+
+- 8 min presentations
+- Share the talking evenly
+- Practice before hand and time yourselves
+
+### The Format
+
+- Introduce yourselves (10 second intros!)
+- Briefly explain the problem you are solving
+- Live demo your app, 3 or 4 mins to explain your solution, how your app works and how it solves the problem
+- Briefly talk through how you approached the project (git and github strategy, planning, team roles, etc)
+- Finish in 8 mins to leave time for a question
