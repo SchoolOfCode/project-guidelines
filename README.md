@@ -1,11 +1,23 @@
-# Project Plan Guidelines
+# Final Project Guidelines
 
 ## Team
+
 - The most important part of any project, making sure the team are all bought into it
 - In great teams, each member puts the team above themselves. Egos are left at the door, we're all in it to help each other
 - What are the strengths, preferences, weaknesses, and how can you all work together to maximise each others potential
 - How will you keep it a happy, fun, and effective team environment?
 - Remember back to all your team work and self-awareness sessions
+
+## Manage
+
+- Managing yourselves as a team is vital to success
+- Agree up front how you will manage the project including:
+  - How you will keep in contact (regular stand-ups however often you see fit to help each other stay on the same page and address any issues)
+  - How you will resolve conflicts (if there's a deadlock of ideas, how will you move forward?)
+  - Who will facilitate each meeting - will it be random or a rota? Or one person for each type of meeting
+- What are your responsibilities? (e.g. is someone keeping the team on track with time? is someone the deciding vote/project CEO?)
+- How will you handle taking regular breaks, or knowing when you are going too deep into a problem and need to chat to get perspective?
+- Decide on a strategy for dividing up work and still keeping people in the loop and working as part of a team.
 
 ## Understand the problem: Part 1
 
@@ -29,7 +41,7 @@
 
 ## Ideation: Part 2
 
-- Use disney ideation to bring to life lots of different solutions, and hone down your favourites
+- Use disney ideation to bring to life lots of different solutions, and hone down your favorites
 
 ## Planning: Part 1
 
@@ -40,33 +52,32 @@
   - What is out there that can help?
   - Find some inspiration for designing and branding your platform
   - Plan what assets you may need for the client, and what you are missing
-- Create low-fidelity wireframes/sketches of the user experience, and really thinking through what makes a good, smooth, and easy user experience
+- Create low-fidelity [wireframes/sketches](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/amp/) of the user experience, and really thinking through what makes a good, smooth, and easy user experience
 - Plan what data is needed in your application, and what models are needed to represent that data
-- Plan the api needed in order to allow developers to interact with that data
+- Plan the api needed in order to allow you and other developers to interact with that data
+  - Specify what routes you will have and what the response will be.
 - Delve deeper into the front-end:
   - What should it look like?
-  - What is the theme / feel / colour scheme?
+  - What is the theme / feel / color scheme
+    - [Coolors](https://coolors.co/)
+    - [Color Palette Generator](https://colors.muz.li/)
+    - [Color Mind](http://colormind.io/)
+    - [Adobe Color](https://color.adobe.com/create/color-wheel)
   - What assets will you need?
   - What will the user be able to do?
   - What will you show the user?
   - How will you get the data into your front-end application?
 
-## Manage
-
-- Managing yourselves as a team is vital to success
-- Agree up front how you will manage the project including:
-  - How you will keep in contact (regular stand-ups however often you see fit to help each other stay on the same page and address any issues)
-  - How you will resolve conflicts (if there's a deadlock of ideas, how will you move forward?)
-- What are your responsibilities? (e.g. is someone keeping the team on track with time? is someone the deciding vote/project CEO?)
-- How will you handle taking regular breaks, or knowing when you are going too deep into a problem and need to chat to get perspective?
-
 ## Planning: Part 2
 
-- Break your plan up into epics and issues
-- Estimate the complexity
+- Break your plan up into epics, milestones and issues
+- Keep track in either trello or even better github projects.
+- Estimate the complexity using story point poker
 - Prioritise
 - Find out which issues are blockers for others (which things need to be completed before something else can be started)
-- Sort what is in your current sprint, what is in your stretch goals, and what is the future vision
+- Plan your sprint.
+  - We reccomend no longer that a week,
+    Sort what is in your current sprint, what is in your stretch goals, and what is the future vision
 - Delegate to pairs
 
 ## Track
@@ -89,6 +100,10 @@
 - Use GitHub / GitHub classrooms to set up the repos on GitHub
   - This can be a monorepo or microservice style where each service has it's own repo
 - Push your initial work up to the repos
+- lint rules
+- prettier
+- testing
+- storybook
 
 ## Tech: Build
 
@@ -96,15 +111,16 @@
 - Start working on your features
 - Remember our process
   - **Do not push to master!**
-  - Branch off from master, naming your branch whatever the issue you are working on is
+  - Branch of master, creating a dev branch
+  - Branch off from dev, naming your branch whatever the issue you are working on is
   - Make small commits as often as possible to ensure nothing can go too wrong!
   - Remember to **Co-author your commits** - it'll be important to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors)
   - **You may find it useful for raise a pull request early on in the process**; we'd suggest when you think you are 30% done (ask the team - "here's what I'm thinking, any suggestions early on", and when you think you are 90% done "I think I've cracked it, any last pointers before it's ready to submit")
-  - When your issue is complete, raise a pull request
+  - When your issue is complete, raise a pull request against dev
   - Have another member (at least 1) of the team pull it in - take time to review the code together and make sure someone else knows what's happening
   - **Request a review from a School of Code Coach**; these reviews will be conducted before 10am each morning, and will help keep you on the right track, prompt you to take in best practices, and keeps us informed on your progress so we can spot problems before they become runaway trains!
   - Once the merge is accepted, delete the branch
-  - Start from the top
+  - You can then raise a pull request from dev into master
 
 ## Presentation: Plan
 
@@ -136,13 +152,14 @@ Project Hosting
 - Netlify
 - Heroku
 - AWS
+- Docker
 
 Database Hosting
 
-- Google Cloud
-- AWS
-- Firebase
 - Heroku
+- AWS
+- Google Cloud
+- Firebase
 - MongoDB Atlas
 
 Designing
@@ -151,13 +168,13 @@ Designing
 - Google Sheets
 - Balsamiq
 - Whiteboards
+- Draw.io (download vs code extension!)
 
 Project Management
 
-- Storypoint Poker
-- GitHub
-- Trello
 - JIRA
+- GitHub Projects
+- Trello
 
 Project Tooling
 
@@ -166,6 +183,14 @@ Project Tooling
 - Create React App
 - Prettier
 - ES Lint
+- Storybook
+
+Testing
+
+- Jest
+- Cypress
+- Supertest
+- React Testing Library
 
 Continuous Integration
 
@@ -183,3 +208,5 @@ Communication
 - Slack
 - Email
 - WhatsApp
+- Zoom
+- Discord

@@ -3,7 +3,7 @@
 ## No off-the-shelf/standard front-end
 
 - We want to see a custom front-end experience, and the reasons why you've chosen to design it like this
-- Animations/customsiations can make a big difference, so highlight any points of interest that would be hard to describe
+- Animations/customisations can make a big difference, so highlight any points of interest that would be hard to describe
 
 ## Diagram depicting how your stack is set up
 

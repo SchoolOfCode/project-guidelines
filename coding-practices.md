@@ -2,9 +2,9 @@
 
 ## Folder Structure
 
-Typical folder structure should look similar to the following guidelines:
+Below are two examples of typical folder structures for a CRA and an Express app. If using different technologies then remember to separate concerns so that your code is easy to navigate and easy to test.
 
-### Front-end
+### Front-end - Create React App
 
 ```
 public/
@@ -31,11 +31,12 @@ README.md
 ```
 
 Notes:
+
 - Folders are `camelCased`
   - Except for component folders, which are `PascalCased` so that we know components live in there
 - You may wish to have a `pages/` folder (similar to gatbsy) where using React router you can contain pages and render them when needed. In this case, you may want a `Routing` folder which contains all of the routing logic.
 
-### Back-end
+### Back-end - Express
 
 ```
 bin/
@@ -47,4 +48,3 @@ routes/
 app.js
 package.json
 ```
-
