@@ -52,7 +52,7 @@
   - What is out there that can help?
   - Find some inspiration for designing and branding your platform
   - Plan what assets you may need for the client, and what you are missing
-- Create low-fidelity [wireframes/sketches](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/amp/) of the user experience, and really thinking through what makes a good, smooth, and easy user experience
+- Create low-fidelity [wireframes/sketches](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/amp/) of the user experience, and really think through what makes a good, smooth, and easy user experience
 - Plan what data is needed in your application, and what models are needed to represent that data
 - Plan the api needed in order to allow you and other developers to interact with that data
   - Specify what routes you will have and what the response will be.
@@ -71,13 +71,13 @@
 ## Planning: Part 2
 
 - Break your plan up into epics, milestones and issues
-- Keep track in either trello or even better github projects.
+- Keep track in either trello or even better github projects or jira.
 - Estimate the complexity using story point poker
 - Prioritise
 - Find out which issues are blockers for others (which things need to be completed before something else can be started)
 - Plan your sprint.
-  - We reccomend no longer that a week,
-    Sort what is in your current sprint, what is in your stretch goals, and what is the future vision
+  - We reccomend no longer that a week.
+  - Sort what is in your current sprint, what is in your stretch goals, and what is the future vision
 - Delegate to pairs
 
 ## Track
@@ -97,13 +97,10 @@
   - turn the express app into a json api
   - change the folder structure of the react app
 - Decide on any libraries and frameworks you want to use upfront - do research and agree as a team
-- Use GitHub / GitHub classrooms to set up the repos on GitHub
+- We will provide you with empty GitHub classrooms
   - This can be a monorepo or microservice style where each service has it's own repo
 - Push your initial work up to the repos
-- lint rules
-- prettier
-- testing
-- storybook
+- Align your prettier config to avoid messy merges
 
 ## Tech: Build
 
