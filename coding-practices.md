@@ -12,8 +12,8 @@ src/
   components/
     App/
       App.module.css
-      App.test.js
       App.stories.js
+      App.test.js
       index.js
     ...
   config/

@@ -71,14 +71,14 @@
 ## Planning: Part 2
 
 - Break your plan up into epics, milestones and issues
-- Keep track in either trello or even better github projects or jira.
+- Keep track using jira.
 - Estimate the complexity using story point poker
 - Prioritise
 - Find out which issues are blockers for others (which things need to be completed before something else can be started)
 - Plan your sprint.
   - We reccomend no longer that a week.
   - Sort what is in your current sprint, what is in your stretch goals, and what is the future vision
-- Delegate to pairs
+- Delegate to pairs/threes
 
 ## Track
 
@@ -92,9 +92,9 @@
 - This phase is best done as a whole team, everyone gather round one computer and mob program so you are on the same page
 - Create a new project folder outside of any existing git repos
 - Create two sub-folders: `client` and `server`
-- In each of these folders, initialise your codebase (e.g. use express generator for the server, and create-react-app for the client)
+- In each of these folders, initialise your codebase (e.g. use dotnet new webapi for the server, and create-react-app for the client)
 - Adapt these generated code bases so they suit your purpose, e.g.
-  - turn the express app into a json api
+  - remove the weather example from webapi
   - change the folder structure of the react app
 - Decide on any libraries and frameworks you want to use upfront - do research and agree as a team
 - We will provide you with empty GitHub classrooms
@@ -111,11 +111,11 @@
   - Branch of master, creating a dev branch
   - Branch off from dev, naming your branch whatever the issue you are working on is
   - Make small commits as often as possible to ensure nothing can go too wrong!
-  - Remember to **Co-author your commits** - it'll be important to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors)
+  - **Co-author your commits** - it'll be important to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors)
   - **You may find it useful for raise a pull request early on in the process**; we'd suggest when you think you are 30% done (ask the team - "here's what I'm thinking, any suggestions early on", and when you think you are 90% done "I think I've cracked it, any last pointers before it's ready to submit")
   - When your issue is complete, raise a pull request against dev
   - Have another member (at least 1) of the team pull it in - take time to review the code together and make sure someone else knows what's happening
-  - **Request a review from a School of Code Coach**; these reviews will be conducted before 10am each morning, and will help keep you on the right track, prompt you to take in best practices, and keeps us informed on your progress so we can spot problems before they become runaway trains!
+  - **Request a review from a School of Code Coach**; these reviews will help keep you on the right track, prompt you to take in best practices, and keeps us informed on your progress so we can spot problems before they become runaway trains!
   - Once the merge is accepted, delete the branch
   - You can then raise a pull request from dev into master
 
@@ -147,14 +147,14 @@ Agree as a team which tools you will be using for the job. Here are some possibi
 Project Hosting
 
 - Netlify
+- Azure
 - Heroku
-- AWS
 - Docker
 
 Database Hosting
 
+- Azure
 - Heroku
-- AWS
 - Google Cloud
 - Firebase
 - MongoDB Atlas
@@ -175,7 +175,7 @@ Project Management
 
 Project Tooling
 
-- Express Generator
+- Dotnet
 - Next.JS
 - Create React App
 - Prettier
@@ -185,15 +185,16 @@ Project Tooling
 Testing
 
 - Jest
-- Cypress
-- Supertest
+- XUnit
+- Moq
+- NSubstitute
 - React Testing Library
 
 Continuous Integration
 
-- Travis
-- CircleCI
 - GitHub actions
+- CircleCI
+- Travis
 
 Bug Tracking / Detection / Logging
 
