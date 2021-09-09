@@ -1,42 +1,44 @@
 # Specifics we want to see
 
-## No off-the-shelf/standard front-end
+## Think UX
 
-- We want to see a custom front-end experience, and the reasons why you've chosen to design it like this
-- Animations/customisations can make a big difference, so highlight any points of interest that would be hard to describe
+- Use your user personas to craft a user journey and experience that stands out and solves the problem you set out to solve
+- We want to see a custom front-end experience, and hear the reasons why you've chosen to design it like this
+- The look, feel, and brand of the product / app should all align and we'd like to hear the reasons you've decided this was the right approach
+- Animations/customisations can make a big difference in user experience - make sure you highlight these in your presentations if you implement them
 
 ## Diagram depicting how your stack is set up
 
 - We want to see how your technology is set up
-- What is your platform built on?
+- What technologies is your platform built on?
 - Where is it hosted?
 - How do different parts communicate?
 
 ## Day 1 Tip: No coding, just planning and setup
 
-- The only code you should do on Day 1 is right at the end of the day, and that is getting everything set-up together, and then pulled down locally for each team member
+- The problem should be solved before you start coding. Use Day 1 to work out who you are solving the problem for, what the problem is, how best to align with your target user in terms of creating a brand / user journey, what the priorities are to deliver value to your users, and then getting the whole team set up so that everyone is ready to code and on the same page with a well planned backlog of tasks to deliver
 
 ## Team splits
 
 - Day 2, 3, and 4 should all be spent pair programming
 - We want to see a different pairing each day
-- For a team of 5, that might mean 1 person may be on their own each day or a 3, but this should be a different person
+- For a team with an odd unmber of members, that might mean 1 person may be on their own each day or in a 3, but this should be a different person
 
 ## Technical details
 
-- You should be using environment variables where you think it is appropriate
-- Bonus points for advanced user interface features
+- You should be using environment variables where you think it is appropriate, and be [comfortable with why this is important to do in building applications](https://12factor.net/)
+- You should try and use the core technologies that we have covered on the course so far - Node, SQL, and React in particular
 
 ## Friday Presentations
 
-- 8 min presentations
-- Share the talking evenly
+- 10 minute presentation slots: 8 minutes for presentations and 2 minutes for Q&A
+- Share the talking evenly around the team, everyone should contribute to the planning, building, and presenting
 - Practice before hand and time yourselves
 
-### The Format
+### The Presentation Format
 
 - Introduce yourselves (10 second intros!)
 - Briefly explain the problem you are solving
 - Live demo your app, 3 or 4 mins to explain your solution, how your app works and how it solves the problem
 - Briefly talk through how you approached the project (git and github strategy, planning, team roles, etc)
-- Finish in 8 mins to leave time for a question
+- Finish in 8 mins to leave time for questions
