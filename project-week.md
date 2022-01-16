@@ -5,7 +5,7 @@
 - Use your user personas to craft a user journey and experience that stands out and solves the problem you set out to solve
 - We want to see a custom front-end experience, and hear the reasons why you've chosen to design it like this
 - The look, feel, and brand of the product/app should all align and we'd like to hear the reasons you've decided this was the right approach
-- Animations/customisations can make a big difference in user experience - make sure you highlight these in your presentations if you implement them
+- Make sure you highlight anything you want people to see in your presentations - we can only know what you show us, so if you've got a cool little animation or feature, be sure to show it clearly rather than expect people to notice
 
 ## Diagram depicting how your stack is set up
 
@@ -14,10 +14,16 @@
 - Where is it hosted?
 - How do different parts communicate?
 
-## Day 1 Tip: No coding, just planning and setup
+## Day 1 Tip: No coding until you're all on the same page, setup to work together, and have a plan
 
 - The problem should be solved before you start coding. Use Day 1 to work out who you are solving the problem for, what the problem is, how best to align with your target user in terms of creating a brand/user journey and what the priorities are to deliver value to your users and then getting the whole team set up so that everyone is ready to code and on the same page with a well planned backlog of tasks to deliver.
 - Use the steps of Disney ideation to ensure you make space for all of the phases of the ideation process. 
+
+## Communication is key
+
+- Keeping in sync with each other is vital, and stand-ups are a great way to do this. There is no limit on when stand-ups should be, that's down to you as a team... many teams do a couple a day to check-in quickly with each other. Remember, it can be rapid - the point of a stand-up is a quick glance at what's going on, and if there are any blockers anyone is facing
+- Being clear about who is doing what is helpful when working across a team
+- Performing code reviews is a great way of getting more eyes on the code, and keeping people up to date with what's happening
 
 ## Team splits
 
@@ -28,11 +34,11 @@
 ## Technical details
 
 - You should be using environment variables where you think it is appropriate, and be [comfortable with why this is important to do in building applications](https://12factor.net/)
-- You should use the core technologies that we have covered on the course so far - Node, SQL, and React in particular
+- You should use the core technologies that we have covered on the course so far - think JavaScript, Node, SQL, and React
 
 ## Friday Presentations
 
-- 10 minute presentation slots: 8 minutes for presentations and 2 minutes for Q&A
+- 10 minute presentation slots, with some Q&A after. Try to stick to the timings!
 - Share the talking evenly around the team, everyone should contribute to the planning, building, and presenting
 - Practice before hand and time yourselves
 
@@ -42,4 +48,4 @@
 - Briefly explain the problem you are solving
 - Live demo your app, 3 or 4 mins to explain your solution, how your app works and how it solves the problem
 - Briefly talk through how you approached the project (git and github strategy, planning, team roles, etc)
-- Finish in 8 mins to leave time for questions
+- Finish, and questions
