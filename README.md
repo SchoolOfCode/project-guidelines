@@ -262,5 +262,6 @@ Libraries to help with your building features
 - … literally all over the web
   - Search npm
   - Search for cool react libraries that do the job you’re looking for
-  - Search everywhere
+  - Search everywhere, for example this list of [React Components](https://github.com/brillout/awesome-react-components) and [React Hooks](https://github.com/rehooks/awesome-react-hooks)
+  - Remember, you can create functionality that already exists because you want the experience of building it. But equally, you can use functionality that exists - this is your project and experience!
 - Remember to checkout a libraries documentation (if it’s rubbish, it could be hard to bug-fix later) and usage (the more people it’s used by and rated by, the more likely it is to be good for your project)
