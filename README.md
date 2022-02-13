@@ -27,7 +27,9 @@
 
 ## The Direction
 
-- The final project is up to you, so brainstorm as a team options
+- We would like your final project to be centred on a user or a problem, so that you can apply all of the principles we've visited on the course to engineer a solution in a user-driven methodology
+- The application you build in your final project is up to you, so brainstorm options as a team
+- This can be tricky, so this is a real test of whether you can leave you ego at the door and get onboard with something for the good of the team. A good tactic when brainstorming is everyone writing down some ideas, and as soon as you've written down your idea it doesn't belong to you - someone else will read it out and the team can talk it through. This can stop the team falling into the trap of digging in because they want their idea to "win". It doesn't matter what you build in reality - you want an opportunity to demonstrate to the world the fact you can operate in an engineering team, so keep that bigger picture in mind to keep perspective all the way through.
 - Our requirements are that you focus the idea and development on a real-world problem and put users at the centre of your project
 - Remember, anything is possible with the skills you have and the new skills you can very quickly learn. We think you should centre your solution on a full stack solution (front-end and supporting API) like we've learned to create in engineering teams over the past 16 weeks. However, the overall project could have  many different features and services that ccome together to make up the solution. Possibilites include:
   - Web Apps
