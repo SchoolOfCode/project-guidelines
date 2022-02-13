@@ -17,7 +17,7 @@
   - How you will keep in contact (regular stand-ups however often you see fit to help each other stay on the same page and address any issues)
   - How will you resolve conflicts (if there's a deadlock of ideas, how will you move forward?)?
   - How will you make sure everyone is heard? (Good tactics are using the [SOC Spinner](https://soc-spinner.netlify.app/) or throwing around the virtual ball so that everyone gets a turn to have uninterrupted speaking time)
-  - How will you facilitate brainstorming online (using a Jam Board, take a few minutes at the start of a session to allow everyone to write down their ideas, and then go through each of them - this can help all thinking styles get the most out of the session)
+  - How will you facilitate brainstorming online? (One option: Using a [Jam Board](https://jamboard.google.com/), [Miro](https://miro.com/) or similar, take a few minutes at the start of a session to allow everyone to write down their ideas, and then go through each of them - this can help all thinking styles get the most out of the session)
   - How will you make decisions as a team? (What happens when there isn't a unanimous decision?)
   - Who will facilitate each meeting - will it be random or a rota? Or one person for each type of meeting?
 - What are your responsibilities? (e.g. is someone keeping the team on track with time? Is someone the deciding vote?)
