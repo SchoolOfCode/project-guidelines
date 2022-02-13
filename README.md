@@ -2,6 +2,7 @@
 
 ## Team
 
+- Get to know each other - and come up with a team name :)
 - The most important part of any project is making sure the team are all bought into it
 - In great teams, each member puts the team above themselves. Egos are left at the door; we're all in it to help each other
 - What are the strengths, preferences, weaknesses, and how can you all work together to maximise each others' potential?
@@ -28,6 +29,19 @@
 
 - The final project is up to you, so brainstorm as a team options
 - Our requirements are that you focus the idea and development on a real-world problem and put users at the centre of your project
+- Remember, anything is possible with the skills you have and the new skills you can very quickly learn. We think you should centre your solution on a full stack solution (front-end and supporting API) like we've learned to create in engineering teams over the past 16 weeks. However, the overall project could have  many different features and services that ccome together to make up the solution. Possibilites include:
+  - Web Apps
+  - APIs
+  - Websites
+  - Developer Tools
+  - Desktop Apps
+  - Mobile Apps
+  - Virtual Reality
+  - Augmented Reality
+  - Voice App
+  - anything you can think of...
+
+JavaScript and React can be used for almost all of the above, so you don't necessarily have to even pick up a new language to achieve a variety of outcomes.
 
 ## Understand the problem: Part 1
 
