@@ -164,6 +164,7 @@ Here’s a starting point repo you might want to fork for your [front-end](https
   - You can then raise a pull request from dev into the master/main branch
 - For APIs, Postman is an invaluable tool, and has a lot of support and guidance online for developing APIs
   - Remember Jest and Supertest are good libraries for testing APIs, but you can also look into how to achieve this with Postman or through any other method
+- What is your testing strategy going to be? Will you test everything, or the critical parts of the app? Industry teams value tests, which give you confidence in your code and allow you to add features at speed. You can test through any means, whether Jest, Cypress, or another tool.
 
 ## Tech: Coaching
 
