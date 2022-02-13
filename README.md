@@ -1,5 +1,7 @@
 # Final Project Guidelines
 
+Before you start, remember that the entire community, from alumni to mentors, are rooting for you. The aim of these projects is to help you experience what its like to be part of a real-life engineering team building a real-world solution. Sometimes things may feel overwhelming or too stressful - your team are here to support you, and part of the reason you want to work in tech is because it should be challenging, supportive, and fun! Keep perspective, learn as much as you can, and remember that the fundamental thing people hire from School of Code are people with the right mindset and attitude to work in a high-performance tech team.
+
 ## Team
 
 - Get to know each other - and come up with a team name :)
