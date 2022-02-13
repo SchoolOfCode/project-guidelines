@@ -217,12 +217,13 @@ Database Hosting
 - Firebase
 - MongoDB Atlas
 
-Designing
+Designing (many of these apps have useful templates you can use too)
 
 - Figma
 - FigJam
 - JamBoard
 - Google Sheets
+- Miro
 - Balsamiq
 - Whiteboards (apps, in Zoom, or physical)
 - Draw.io (download the VS code extension!)
