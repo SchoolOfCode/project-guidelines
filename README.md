@@ -4,42 +4,48 @@ Before you start, remember that the entire community, from alumni to mentors, ar
 
 ## Team
 
-- Get to know each other - and come up with a team name :)
-- The most important part of any project is making sure the team are all bought into it
-- In great teams, each member puts the team above themselves. Egos are left at the door; we're all in it to help each other
-- What are the strengths, preferences, weaknesses, and how can you all work together to maximise each others' potential?
+- The most important part of any project is making sure the team members are all bought into it and all working together to make the team environment the best that it can be. You will be assessed on your teamwork from the beginning of the project onward as this is crucial in what our employers look for.
+- In great teams, each member puts the team above themselves. Egos are left at the door; we're all in it to help each other.
+- What are the strengths, preferences, weaknesses, and goals of each person, and how can you all work together to maximise each others' potential?
 - How will you keep it a happy, fun, and effective team environment?
-- Remember all your teamwork and self-awareness sessions
-- The key thing here is to learn and have fun in an engineering team, and deliver a great product… that’s what you’ll be doing hopefully for the rest of your careers, so start off in the right way
+- Remember all your teamwork, communication, and self-awareness sessions!
+- The key thing here is to learn and have fun in an engineering team, and deliver a great product… That’s what you’ll be doing hopefully for the rest of your careers, so start off in the right way.
+- Spend time crafting your team manifesto, and keep referring to it throughout the project - use it as a living document, especially when the going gets tough.
 
 ## Manage
 
-- Managing yourselves as a team is vital to success
+- Managing yourselves as a team is vital to success.
+- Everything moves more slowly if you can’t ship code quickly and roll back/forward quickly when you break stuff. Spend time in the first sprint getting work workflow slick. Every commit goes to prod - build that momentum. Elite teams prioritise developer experience. Think about picking a tech stack that has very good docs, consider picking items in your tech stack that are designed to work well together. For instance - it is very common to use React with Redux. Because it’s common there are lots of docs, straightforward tutorials and brilliant developer tooling. Another example might be, it’s possible to create your own React application from scratch, containerise the application and and have it deploy a Azure Container Instance … but it’s a lot easier and quicker to use two or three commands to spin up a blank Next.js app and hook it up to deploy on Netlify. If you have limited time it better to lean towards common tech stacks and easy deployment.
 - Agree up front how you will manage the project including:
-  - How you will keep in contact (regular stand-ups however often you see fit to help each other stay on the same page and address any issues)
-  - How will you resolve conflicts (if there's a deadlock of ideas, how will you move forward?)?
-  - How will you make sure everyone is heard? (Good tactics are using the [SOC Spinner](https://soc-spinner.netlify.app/) or throwing around the virtual ball so that everyone gets a turn to have uninterrupted speaking time)
-  - How will you facilitate brainstorming online? (One option: Using a [Jam Board](https://jamboard.google.com/), [Miro](https://miro.com/) or similar, take a few minutes at the start of a session to allow everyone to write down their ideas, and then go through each of them - this can help all thinking styles get the most out of the session)
-  - How will you make decisions as a team? (What happens when there isn't a unanimous decision?)
+  - How you will keep in contact (regular stand-ups, retros, and getting together as a team however often you see fit to help each other stay on the same page and address any issues)
+  - How you will resolve conflicts (if there's a deadlock of ideas, how will you move forward?)
+  - How you will make sure everyone is heard (good tactics are using the [SOC Spinner](https://soc-spinner.netlify.app/) or throwing around the virtual ball so that everyone gets a turn to have uninterrupted speaking time)
+  - How will you facilitate brainstorming online (such as using a Jam Board or other tool, take a few minutes at the start of a session to allow everyone to write down their ideas, and then go through each of them - this can help all thinking styles get the most out of the session)
+  - How you will make decisions as a team (What happens when there isn't a unanimous decision?) Remember the tools covered during mindset sessions such as dot voting and Roman voting, and agree which you’ll use. It’s also worth looking into decision-making frameworks such as [consensus decision making](https://www.seedsforchange.org.uk/shortconsensus) and [consent decision making](https://medium.com/humans-of-xero/making-better-faster-decisions-that-are-good-enough-for-now-how-to-use-consent-based-decision-eef45ed8c976).
   - Who will facilitate each meeting - will it be random or a rota? Or one person for each type of meeting?
 - What are your responsibilities? (e.g. is someone keeping the team on track with time? Is someone the deciding vote?)
-- How will you handle taking regular breaks or knowing when you are going too deep into a problem and need to chat to get perspective?
-- Decide on a strategy for dividing up work and still keeping people in the loop and working as part of a team
-- Remember, no plan survives contact with the enemy - you don't plan so that you rigidly stick to it even when it's not working, you plan so you are prepared and can iterate towards a solution. But the more thinking you do upfront, the more robust your plan and the cheaper it is to iterate through possibilities and changes
+- How will you handle taking regular breaks or knowing when you are going too deep into a problem and need to chat to get perspective? Will someone be in charge of keeping an eye on time for breaks?
+- Decide on a strategy for dividing up work and still keeping people in the loop and working as part of a team. **Your code is team-owned - no member should be going off and adding code without communicating/agreeing as a team.**
+- Remember, no plan survives contact with the enemy - you don't plan so that you rigidly stick to it even when it's not working. You plan so you are prepared and can iterate towards a solution. But the more thinking you do upfront, the more robust your plan is and the cheaper it is to iterate through possibilities and changes.
 
 ## The Direction
 
-- We would like your final project to be centred on a user or a problem, so that you can apply all of the principles we've visited on the course to engineer a solution in a user-driven methodology
-- The application you build in your final project is up to you, so brainstorm options as a team
-- This can be tricky, so this is a real test of whether you can leave you ego at the door and get onboard with something for the good of the team. A good tactic when brainstorming is everyone writing down some ideas, and as soon as you've written down your idea it doesn't belong to you - someone else will read it out and the team can talk it through. This can stop the team falling into the trap of digging in because they want their idea to "win". It doesn't matter what you build in reality - you want an opportunity to demonstrate to the world the fact you can operate in an engineering team, so keep that bigger picture in mind to keep perspective all the way through
-- Our requirements are that you focus the idea and development on a real-world problem and put users at the centre of your project
+- For your project, you and your team are coming together as entrepreneurs who will identify and agree on a real-world problem that you’ll focus your development on to solve as a business team.
+- Start with a problem - don’t start with an idea. If people are kicking in ideas of what to build stop and start again. Find a real problem.
+  - In industry, people talk about four risks to manage when building a product, and they’re worth being aware of as you figure out what problem you’re going to solve with your product.
+    - **Product market fit.** This means does this solve a problem big enough/annoying enough that people will pay for it. It’s the most important thing to get right.
+    - **Feasibility.** So we’ve found a hard problem/valuable problem, when we start doing ideating, could we actually build the solution?
+    - **Usability.** So we’ve found a hard problem, technically we can build a solution. But is it useable. You want to build something people love using.
+    - **Viability.** Does the solution work for the business. Or does the cost of building/providing mean it’s not worth it. Maybe there’s strong competition. Maybe it would cannibalise the market share of a product you already have? The key here is active decision making. Be aware of the competitive/business risk. You can make something others have already made, but be clear how you’ll be different.
+- Put users at the centre of your project. How can you use technology to solve a problem affecting your user? How can what you build make their life easier? Ideate, plan, and build a full-stack application that addresses this problem for your users.
+- Is your solution viable as a business idea? Is it sustainable and maintainable?
+- Brainstorm about the problem you want to solve as a team. Have some time to think through individually, and then list the ideas you’ve all come up with and discuss and agree together. Once you’ve chosen your idea as a team, you can move on to the next phases of understanding the problem, ideating, and planning.
 
 ## Understand the problem: Part 1
 
-- Take time to understand who the user is and what their problem is
-- Don't take the problem at face value - delve into it. If Henry Ford would've only listened to what people were asking for, he would have just bred faster horses. Instead, he analysed the deeper problem of people wanting to get from A to B as quickly as possible. Understand the why!
+- Take time to understand who the user is and what their problem is.
+- Don't take the problem at face value - delve into it. If Henry Ford only listened to what people were asking for, he would have just bred faster horses. Instead, he analysed the deeper problem of people wanting to get from A to B as quickly as possible. Understand the why!
 - What is the underlying value this software should provide?
-- Are there different stakeholders?
 - What are the existing solutions?
 - What is bad/good about them?
 - How will success be measured?
@@ -60,6 +66,8 @@ Before you start, remember that the entire community, from alumni to mentors, ar
 
 ## Planning: Part 1
 
+- It’s important to show companies your skills in planning, including the whole system - if you left tomorrow, your plan needs to be at a level of detail that another team could still pick it up and build the software as you designed it. This is the true value you have for companies! So spend plenty of time in these planning stages, and be sure to document as you go so you can articulate about them and tell the story of your planning process to employers at the end.
+- Be strict on what is in the MVP and what isn’t. Draw a line on the board. Only allow a certain number of features above the line (MVP). Be very ruthless about what is below. Those bits can be stretch goals in later sprints.
 - Create [user personas](https://www.hubspot.com/make-my-persona) to get to know your users
 - Create [user stories](https://www.atlassian.com/agile/project-management/user-stories) to help map through what a user wants to do and why
 - Start planning the tech behind that solution
@@ -68,35 +76,25 @@ Before you start, remember that the entire community, from alumni to mentors, ar
   - Who can you speak to/get information from for user research?
   - Find some inspiration for designing and branding your platform
   - Plan what assets you may need for the client and what you are missing
-- What will you build to help your user achieve their goals?
-  - Remember, anything is possible with the skills you have and the new skills you can very quickly learn. We think you should centre your solution on a full stack solution (front-end and supporting API) like we've learned to create in engineering teams over the past 16 weeks. However, the overall project could have  many different features and services that ccome together to make up the solution. Possibilites include:
-    - Web Apps
-    - APIs
-    - Websites
-    - Developer Tools
-    - Desktop Apps
-    - Mobile Apps
-    - Virtual Reality
-    - Augmented Reality
-    - Voice App
-    - anything you can think of...
-  - JavaScript and React can be used for almost all of the above, so you don't necessarily have to even pick up a new language to achieve a variety of outcomes.
 - Create low-fidelity [wireframes/sketches](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/amp/) of the user experience, and really think through what makes a good, smooth, and easy user experience
-  - Good tools include [Draw.io](http://draw.io/), [Figma](https://www.figma.com/), and many more
+  - Good tools include [Draw.io](http://draw.io/), [Figma](https://www.figma.com/), and many more.
+  - Check out sites like [Awwwards](https://www.awwwards.com/) for design inspiration.
 - Plan what data is needed in your application and what models are needed to represent that data
 - Try and use diagrams to share a vision between your team. These diagrams can and should be used for anything and everything - it’s easier to know you are all looking at the same picture when it’s in front of you, rather than getting wires crossed
-  - [Here’s a guide for drawing Architectural Diagrams](https://www.lucidchart.com/pages/architecture-diagram), and you can use apps like [Lucid Chat](https://www.lucidchart.com/pages/) or [Draw.io](http://draw.io/)
-  - [Here’s a guide for designing databases](https://www.lucidchart.com/pages/database-diagram/database-design), and again [Lucid Chat](https://www.lucidchart.com/pages/) or [Draw.io](http://draw.io/), but also other tools like [DBDiagram](https://dbdiagram.io/home)
+  - [Here’s a guide for drawing Architectural Diagrams](https://www.lucidchart.com/pages/architecture-diagram), and you can use apps like [LucidChart](https://www.lucidchart.com/pages/) or [Draw.io](http://draw.io/)
+  - [Here’s a guide for designing databases](https://www.lucidchart.com/pages/database-diagram/database-design), and again [LucidChart](https://www.lucidchart.com/pages/) or [Draw.io](http://draw.io/), but also other tools like [DBDiagram](https://dbdiagram.io/home)
   - As well as the diagramming tools, you could also try a diagram language, such as [Pintora](https://pintorajs.vercel.app/docs/intro/) or [Mermaid](https://mermaid-js.github.io/mermaid/#/)
   - Remember, Draw.io has a great [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) and [installable app](https://www.diagrams.net/)
-- Think of the contracts needed between each part of your application
+- You will for sure be making assumptions about what your solution should be. The goal is to make a hypothesis, then build the smallest/fastest test you can, show it to users, learn, and pivot. An example of this might be that it’s often fastest to test something by having users play with a Figma, record their audio and screen. Watch it back and pivot what you build.
+- Think of the contracts needed between each part of your application:
   - What is the agreed upon interface to interact with a certain part, for example:
     - Plan the API needed in order to allow you and other developers to interact with that data
     - Specify what routes you will have and what the response will be
-    - Establish that design as the contract, so that before the thing is built, consumers of the API know what routes to call and what they will get back, and developers of the API know what routes to create and what to return in a response
-    - As you develop, you may find you need more functionality than you first predicted… this is fine, and you’d just have a quick conversation along these lines between the consumer and the developer of the API to again establish the contract
-    - As an example, Swagger is a great tool to use for teams in industry when planning and documenting APIs. I wouldn’t recommend using it for your projects, as time is tight and it’s very involved, but you can see an example of the documentation produced and manually use the same sort of approach
+    - Establish that design as the contract, so that before the thing is built, consumers of the API know what routes to call and what they will get back, and developers of the API know what routes to create and what to return in a response; this will help front end and back end teams to develop concurrently while knowing that when they connect, there won’t be any surprises!
+    - As you develop, you may find you need more functionality than you first predicted… This is fine, and you’d just have a quick conversation along these lines between the consumer and the developer of the API to again establish the contract. It’s useful to keep your schema in a shared doc where you can have edit/comment notification and can change/diff easily.
+    - As an example, [Swagger](https://swagger.io/) is a great tool to use for teams in industry when planning and documenting APIs. We wouldn’t recommend using it for your projects, as time is tight and it’s very involved, but you can see an example of the documentation produced and manually use the same sort of approach.
 - Delve deeper into the front-end:
+  - What is critical to build, and what isn’t? Critical can be for your learning experience but also critical to the product. Some portions of the UI aren’t as important to build as others, and it’s important to identify and prioritise this in your planning.
   - What should it look like?
   - What is the theme / feel / color scheme
     - [Coolors](https://coolors.co/)
@@ -106,18 +104,18 @@ Before you start, remember that the entire community, from alumni to mentors, ar
   - What assets will you need?
   - What will the user be able to do?
   - What will you show the user?
-  - How will you get the data into your front-end application?
+  - How will you get the data into your front-end application? What data will your front end expect?
 
 ## Planning: Part 2
 
-- Break your plan up into epics, milestones and issues
-- Keep track using Jira, GitHub Projects, or another kanban/project management system
-- Estimate the complexity using [story point poker](https://www.atlassian.com/blog/platform/a-brief-overview-of-planning-poker#:~:text=Planning%20poker%2C%20also%20known%20as,and%20accurate%20than%20other%20methods.) (here’s an [online tool to help you do it remotely](https://storypoint.poker/))
-- Prioritise - you can use any method, such as a [feature priority matrix ](https://media.nngroup.com/media/editor/2018/05/21/screen-shot-2018-05-21-at-101407-am.png)or a [MoSCoW board](https://online.visual-paradigm.com/repository/images/16fef711-2669-4444-9320-5abe23b3acd8.png)
-- Find out which issues are blockers for others (which things need to be completed before something else can be started)
-- Plan your sprints
-  - We recommend sprints no longer that a week, but probably shorter
-  - Sort what is in your current sprints, what is in your stretch goals, and what is the future vision
+- Break your plan up into epics, milestones and issues.
+- Keep track using Jira, Trello, GitHub Projects, or another kanban/project management system.
+- Estimate the complexity using [story point poker](https://www.atlassian.com/blog/platform/a-brief-overview-of-planning-poker#:~:text=Planning%20poker%2C%20also%20known%20as,and%20accurate%20than%20other%20methods.) (here’s an [online tool to help you do it remotely](https://storypoint.poker/)).
+- Prioritise - you can use any method, such as a [feature priority matrix](https://media.nngroup.com/media/editor/2018/05/21/screen-shot-2018-05-21-at-101407-am.png) or a [MoSCoW board](https://online.visual-paradigm.com/repository/images/16fef711-2669-4444-9320-5abe23b3acd8.png).
+- Find out which issues are blockers for others (which things need to be completed before something else can be started).
+- Plan your sprints:
+  - Your sprints should be no longer than a week.
+  - Sort what is in each sprint, what constitutes your MVP, what is in your stretch goals, and what is the future vision.
 - Delegate to sub-teams (these could be dynamic, and different sizes for different tasks)
 
 ## Track
@@ -126,13 +124,15 @@ Before you start, remember that the entire community, from alumni to mentors, ar
 - Remember that you will be telling the story of your project later, so record anything that would help (photos, videos, diagrams, etc.)
 - Enable yourselves to tell the whole story - ideas that didn't make it, problems that you encountered, how you resolved them or found solutions, etc.
 - Do you want to measure how effective your estimation was? Agree upfront, and then measure how long it takes compared to what you thought before starting the task
-- For individuals, a brag document: [https://jvns.ca/blog/brag-documents/](https://jvns.ca/blog/brag-documents/)
+- Each team member should keep note of individual achievements in a [brag document](https://jvns.ca/blog/brag-documents/).
+- Keep notes for feedback for your teammates as you move through each sprint as well. What did you love about working with people? What could have gone better? Keep a record - note these down in the moment because you’ll forget once it isn’t fresh in your mind. You should be sharing your feedback with your group members at the end of each sprint as part of your sprint retrospectives. Be sure your feedback contains actionable elements your teammates can take into the next sprint.
 
 ## Tech: Initialise
 
+- **Do not start this section until you have thoroughly planned!**
 - This phase is best done as a whole team sprint with a preference for mob programming so you are all on the same page
-- We will provide GitHub Classrooms links to allow you to get started, if you need more just ask
-- There are many options for how you organise your project. Here are just 2 examples:
+- We will provide GitHub Classrooms links to allow you to get started; if you need more, just ask.
+- There are many options for how you organise your project. Here are just two examples:
 
 Monorepo
 
@@ -149,30 +149,43 @@ Multirepos
 
 In terms of initialising the rest of your environment, decide as a team on any core libraries or integrations you will need to achieve your goals, and make sure to align your configurations so that code standards are consistent across team members (using shared configuration files for services like Prettier, and/or pre-commit hooks like husky can be a good idea).
 
-Here’s a starting point repo you might want to fork for your [front-end](https://github.com/cwissy/examples_front-end-project-week) and [API](https://github.com/cwissy/examples_back-end-project-week), but equally feel free to design you own folders and initialise your own projects.
-
 ## Tech: Build
 
-- All team members should now pull down the repos into the same structure
-- Start working on your features
+- All team members should now pull down the repos into the same structure.
+- Start working on your features.
 - Remember the process:
-  - Do not push to master!
-  - Branch off master, creating a dev branch
-  - Branch off from dev, naming your branch whatever the issue you are working on is
+  - Do not push to main!
+  - Agree on a Git strategy up front with your team. For example, you could branch off main, creating a dev branch, then branch off from dev, naming your branch whatever the issue/feature you are working on is.
   - Make small commits as often as possible to ensure nothing can go too wrong!
-  - Co-author your commits - it'll be important to share the credit in your git history and to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors)
-  - You may find it useful to raise a pull request early on in the process, and then you can ask for a review as you go (the request can be open whilst the branch is actively worked on, and will just update automatically until approved and merged); we'd suggest when you think you are 30% done (ask the team - "here's what I'm thinking - any suggestions early on?", and when you think you are 90% done: "I think I've cracked it. Any last pointers before it's ready to submit?")
-  - When your issue is complete, raise a pull request (if you haven’t already) against your development branch
-  - Have someone else from the team pull it in - take time to review the code together and make sure someone else knows what's happening, and get some feedback if possible
-  - Once the merge is accepted, delete the branch
-  - You can then raise a pull request from dev into the master/main branch
-- For APIs, Postman is an invaluable tool, and has a lot of support and guidance online for developing APIs
-  - Remember Jest and Supertest are good libraries for testing APIs, but you can also look into how to achieve this with Postman or through any other method
-- What is your testing strategy going to be? Will you test everything, or the critical parts of the app? Industry teams value tests, which give you confidence in your code and allow you to add features at speed. You can test through any means, whether Jest, Cypress, or another tool.
+  - Co-author your commits - it'll be important to share the credit in your git history and to show you've contributed even when pairing/mobbing; [click here to see how](https://help.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors).
+  - You may find it useful to raise a pull request early on in the process, and then you can ask for a review as you go (the request can be open whilst the branch is actively worked on, and will just update automatically until approved and merged). We'd suggest when you think you are 30% done. Ask the team - "here's what I'm thinking - any suggestions early on?", and when you think you are 90% done: "I think I've cracked it. Any last pointers before it's ready to submit?"
+  - A healthy development environment encourages positive comments, constructive comments, and pondering! It’s great to see engineers geeking out and praising people in PR comments. 🙂
+  - When your issue is complete, raise a pull request (if you haven’t already) against your development branch.
+  - Have someone else from the team pull it in - take time to review the code together and make sure someone else knows what's happening, and get some feedback if possible.
+  - Once the merge is accepted, delete the branch.
+  - You can then raise a pull request from dev into the master/main branch.
+- For APIs, Postman is still invaluable, and has a lot of support and guidance online for developing APIs.
+  - Remember that Jest and Supertest are good libraries for testing APIs, but you can also look into how to achieve this with Postman or through any other method.
+
+## Tech: Prototyping
+
+Have you ever done the teambuilding activity where you’re given dry spaghetti, string, and a marshmallow and are asked to build the tallest tower with the marshmallow on top? The most successful teams will test their structures with the marshmallow from the very beginning rather than building a rickety, swaying tower, popping the marshmallow on at the last minute, and seeing it crumple.
+
+The moral of this can be applied to your projects as well. Prototype your core functionality from the start. What’s most important? What does everything else depend on? What makes you the most nervous? These are your marshmallows - put them into your early sprints to get the most out of working an an agile way.
+
+## Tech: Pragmatic Testing
+
+Practice pragmatic testing.
+
+Recognise that when you start building a product the requirements will change often since you’re discovering what works in real time. Sprint goals should pivot depending on demo feedback from stakeholders and user feedback from discovery. If what you’re building becomes a stable product, add more tests to aid future refactoring and to document the full requirements.
+
+An example of this might be - if you have ten core user stories then write ten high level Cypress tests. In the real world people tend to test everything from the start, or they test nothing, both not great. The first of these ways is too slow (speed is the life blood of start-ups), and the other is too risky.
 
 ## Tech: Coaching
 
-You will be working like an independent company of developers to execute your goal together. As coaches, we’re an extra layer of support if needed - we will act in a Coach/Mentor capacity. We’ll be asking you for updates on how the team is getting on, and equally be on hand if you’re stuck in a rut that as a team you cannot escape from. You can also request code reviews from your mentors, each other, or School of Code Coach for segments of work; these reviews can help keep you on the right track, prompt you to take in best practises, and keep us informed on your progress so we can spot problems early!
+You will be working like an independent company of developers to execute your goal together. As coaches, we’re an extra layer of support if needed - we will act in a coach/mentor capacity. We’ll be asking you for updates on how the team is getting on, and we’ll equally be on hand if you’re stuck in a rut that as a team you cannot escape from.
+
+You can also request code reviews from your mentors, each other, or School of Code Coach for segments of work; these reviews can help keep you on the right track, prompt you to take in best practises, and keep us informed on your progress so we can spot problems early!
 
 ## Presentation: Plan
 
@@ -191,27 +204,23 @@ You will be working like an independent company of developers to execute your go
   - Q & A
 - Practice by running through the presentation a few times with your team if possible, especially the live demo and product walk-through
 
-## Present
-
-- Take your time, and enjoy it!
-
 ## Tools
 
 Agree as a team which tools you will be using for the job. Here are some possibilities, but it's by no means limited to this list!
 
-Decision Making and Project Guidance
+**Decision Making and Project Guidance**
 
 - [Untools](https://untools.co/)
 - [Atlassian](https://www.atlassian.com/agile)
 
-Project Hosting
+**Project Hosting**
 
 - Netlify
 - AWS
 - Heroku
 - Docker
 
-Database Hosting
+**Database Hosting**
 
 - AWS
 - Heroku
@@ -221,34 +230,41 @@ Database Hosting
 - Firebase
 - MongoDB Atlas
 
-Designing (many of these apps have useful templates you can use too)
+**Designing/Ideation/Discovery**
 
 - Figma
 - FigJam
 - JamBoard
-- Google Sheets
-- Miro
 - Balsamiq
+- Mural
 - Whiteboards (apps, in Zoom, or physical)
 - Draw.io (download the VS code extension!)
+- Google Sheets
 - Good old pen and paper
 
-Project Management
+**Project Management**
 
 - Jira
-- GitHub Projects
+- GitHub Projects/Issues
 - Trello
+- Notion
 
-Project Tooling
+**Boilerplate Applications**
 
 - Next.JS
 - Create React App
-- Prettier
-- ES Lint
-- Storybook
 - Gatsby
 
-Testing
+**Linting**
+
+- Prettier
+- ES Lint
+
+**Documenting components**
+
+- Storybook
+
+**Testing**
 
 - Jest
 - Cypress
@@ -257,18 +273,24 @@ Testing
 - Postman
 - Selenium
 
-Continuous Integration and DevOps
+**Continuous Integration and DevOps**
 
 - GitHub actions
+- GitLab Runners
 - CircleCI
 - Travis
 
-Bug Tracking / Detection / Logging
+**Infrastructure as Code**
+
+- Terraform
+
+**Logging / Observability / Bug Tracking**
 
 - Sentry
 - Log Rocket
+- Grafana
 
-Communication
+**Communication**
 
 - Slack
 - Email
@@ -276,11 +298,23 @@ Communication
 - Zoom
 - Discord
 
-Libraries to help with your building features
+**Libraries to help with your building features**
 
 - … literally all over the web
   - Search npm
   - Search for cool react libraries that do the job you’re looking for
-  - Search everywhere, for example this list of [React Components](https://github.com/brillout/awesome-react-components) and [React Hooks](https://github.com/rehooks/awesome-react-hooks)
-  - Remember, you can create functionality that already exists because you want the experience of building it. But equally, you can use functionality that exists - this is your project and experience!
-- Remember to checkout a libraries documentation (if it’s rubbish, it could be hard to bug-fix later) and usage (the more people it’s used by and rated by, the more likely it is to be good for your project)
+  - Search everywhere
+- Component libraries; examples include (but aren’t limited to!) the libraries below. There will be dedicated React versions of most UI libraries.
+  - Chakra
+  - AntDesign
+  - MaterialUI
+  - SemanticUI
+- Remember to check out a library’s documentation (if it’s rubbish, it could be hard to bug-fix later) and usage (the more people it’s used by and rated by, the more likely it is to be good for your project)
+
+“Good artists copy. Great artists steal.” - Steve Jobs.
+
+Obviously, we’re being a bit tongue in cheek when we reference this quote, but use the collective genius out there! However, this is a topic where balance and critical thinking is needed. Often it’s better not to build everything, but you should be deliberate in what you choose to use from elsewhere vs. build yourself.
+
+Using a package or service is a great way to write less code, ship faster and focus on your core product. For instance, there are great UI libraries that give you well built core components (buttons, drop downs etc etc). You can save a lot of time by using them and just customising them to match your UI. This is time that you can then use to focus on other areas of your app.
+
+But as with all things, there is a balance. When you’re learning or trying to get a job, it’s often worth building something you don’t need to build for the challenge! Be deliberate and note down your decisions - it’s a great thing to show off to prospective employers.
