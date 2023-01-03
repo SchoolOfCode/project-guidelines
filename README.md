@@ -30,10 +30,10 @@ Before you start, remember that the entire community, from alumni to mentors, ar
 
 ## The Direction
 
-- For your project, you and your team are coming together as entrepreneurs who will identify and agree on a real-world problem that you’ll focus your development on to solve as a business team.
+- For your project, you and your team are coming together as problem-solvers who will identify and agree on a real-world problem or opportunity that you’ll focus your development on to solve as a business team.
 - Start with a problem - don’t start with an idea. If people are kicking in ideas of what to build stop and start again. Find a real problem.
   - In industry, people talk about four risks to manage when building a product, and they’re worth being aware of as you figure out what problem you’re going to solve with your product.
-    - **Product market fit.** This means does this solve a problem big enough/annoying enough that people will pay for it. It’s the most important thing to get right.
+    - **Product market fit.** This means does this solve a problem big enough/annoying enough that someone will pay for it. It’s the most important thing to get right.
     - **Feasibility.** So we’ve found a hard problem/valuable problem, when we start doing ideating, could we actually build the solution?
     - **Usability.** So we’ve found a hard problem, technically we can build a solution. But is it useable. You want to build something people love using.
     - **Viability.** Does the solution work for the business. Or does the cost of building/providing mean it’s not worth it. Maybe there’s strong competition. Maybe it would cannibalise the market share of a product you already have? The key here is active decision making. Be aware of the competitive/business risk. You can make something others have already made, but be clear how you’ll be different.
